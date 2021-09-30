@@ -1,6 +1,6 @@
 # LA6-POE_linux_c_example  
 
-The outline of the sample program for controlling LA-POE by socket communication is described.
+The outline of the sample program for controlling LA6-POE by socket communication is described.
 
 The purpose of this program is to control Linux in C language without using the DLL provided by Patlite.
 
