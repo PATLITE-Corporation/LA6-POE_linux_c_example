@@ -61,3 +61,5 @@ Use the LA6 Editor to configure your signal Tower
 |AUDIBLE STYLE|11 alarm sounds available|
 |CONFORMITY STANDARDS|EMC Directive, RoHS Directive, UL 508, FCC, KC|
 |PROTECTION RATINGS|IP54 (IEC 60529)|
+
+
